@@ -15,6 +15,6 @@ no terminal via console a lista das propriedades ordenadas de A-Z.
 ## Para rodar o programa basta:
 1. Clonar o repositório e abrir o prompt do Node;
 2. Digitar... node index.js;
-3. Digitar as propriedades CSS que deseja adicionar a sua lista e quando não quizer adicionar mais itens basta digitar _sair_;
+3. Digitar as propriedades CSS que deseja adicionar a sua lista e quando não quiser adicionar mais itens basta digitar _sair_;
 4. Sua lista retornará em ordem alfabética conforme o proposto.
 
